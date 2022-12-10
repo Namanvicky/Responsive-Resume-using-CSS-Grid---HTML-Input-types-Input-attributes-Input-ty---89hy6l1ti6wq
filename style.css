@@ -122,12 +122,6 @@
     width: 90%;
 }
 
-.progress-dsa {
-    height: 4px;
-    border: 1px solid rgb(224, 236, 8);
-    background-color: #fff;
-    width: 50%;
-}
 .progress-javascript {
     height: 4px;
     border: 1px solid rgb(232, 10, 10);
