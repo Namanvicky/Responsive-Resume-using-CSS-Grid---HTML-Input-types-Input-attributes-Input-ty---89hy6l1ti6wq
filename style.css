@@ -109,7 +109,7 @@
 }
 
 .progress-bar{
-    border: 1px solid white;
+    border: 1px solid rgb(57, 218, 17);
     height: 4px;
     background-color: white;
 }
@@ -117,20 +117,20 @@
 
 .progress-css {
     height: 4px;
-    border: 1px solid white;
+    border: 1px solid rgb(49, 49, 143);
     background-color: #fff;
     width: 90%;
 }
 
 .progress-dsa {
     height: 4px;
-    border: 1px solid white;
+    border: 1px solid rgb(224, 236, 8);
     background-color: #fff;
     width: 50%;
 }
 .progress-javascript {
     height: 4px;
-    border: 1px solid white;
+    border: 1px solid rgb(232, 10, 10);
     background-color: #fff;
     width: 50%;
 }
