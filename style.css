@@ -108,8 +108,16 @@
     margin-top: 1rem;
 }
 
+.skill-name{
+    font-size: .65rem;
+    font-weight: 700;
+    text-align: left;
+    padding-bottom: .5rem;
+    margin-top: 1rem;
+}
+
 .progress-bar{
-    border: 1px solid rgb(57, 218, 17);
+    border: 1px solid white;
     height: 4px;
     background-color: white;
 }
@@ -117,14 +125,14 @@
 
 .progress-css {
     height: 4px;
-    border: 1px solid rgb(49, 49, 143);
+    border: 1px solid white;
     background-color: #fff;
-    width: 90%;
+    width: 59%;
 }
 
 .progress-javascript {
     height: 4px;
-    border: 1px solid rgb(232, 10, 10);
+    border: 1px solid white;
     background-color: #fff;
     width: 50%;
 }
